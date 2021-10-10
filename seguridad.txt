@@ -1,0 +1,9 @@
+%dw 2.0
+output application/json
+---
+[{
+	FirstName: "Max",
+	LastName: "Mule",
+	Email: "maxthemule@mulesoft.com",
+	Company: "MuleSoft"
+}]
